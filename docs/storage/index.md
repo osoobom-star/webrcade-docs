@@ -98,3 +98,4 @@ Eight separate save slots are available for each game. The arrow buttons (*See #
 | Save | The `Save` button creates a new save state and associates it with the current slot (*See #3 in screenshot above*). |
 | Delete | The `Delete` button deletes the save state associated with the current slot (*See #4 in screenshot above*). |
 
+
